@@ -1,1 +1,1 @@
-print("i am a tree")
+print("i love trees")

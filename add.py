@@ -1,5 +1,7 @@
-def sub(a,b):
-    return a-b
+def sub(a, b):
+    diff = a-b
+    return diff
+
 
 def add(a, b):
     sum = a+b
