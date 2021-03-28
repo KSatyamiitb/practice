@@ -1,5 +1,6 @@
 def add(a, b):
-    return a+b
+    sum = a+b
+    return sum
 
 
-print(add(3, 4))
+print("sum is "+add(3, 4))
